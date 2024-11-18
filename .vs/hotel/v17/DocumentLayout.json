@@ -1,0 +1,441 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\hotel\\appview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|solutionrelative:appview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\hotel\\appview\\controllers\\phonggcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|solutionrelative:appview\\controllers\\phonggcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\hotel\\appview\\views\\phongg\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|solutionrelative:appview\\views\\phongg\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2408E5E9-2EDE-4852-A720-F02B8EA7829B}|AppAPI\\AppAPI.csproj|c:\\users\\dattb\\onedrive\\desktop\\hotel\\appapi\\controllers\\phongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2408E5E9-2EDE-4852-A720-F02B8EA7829B}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\controllers\\phongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\hotel\\appview\\views\\phongg\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|solutionrelative:appview\\views\\phongg\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\hotel\\appview\\controllers\\phongscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|solutionrelative:appview\\controllers\\phongscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2408E5E9-2EDE-4852-A720-F02B8EA7829B}|AppAPI\\AppAPI.csproj|c:\\users\\dattb\\onedrive\\desktop\\hotel\\appapi\\controllers\\dichvuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2408E5E9-2EDE-4852-A720-F02B8EA7829B}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\controllers\\dichvuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\hotel\\appdata\\taikhoann.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|solutionrelative:appdata\\taikhoann.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\hotel\\appdata\\dichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|solutionrelative:appdata\\dichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\hotel\\appdata\\datphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|solutionrelative:appdata\\datphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\hotel\\appdata\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|solutionrelative:appdata\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\hotel\\appdata\\hoadonchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|solutionrelative:appdata\\hoadonchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\hotel\\appdata\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|solutionrelative:appdata\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\hotel\\appdata\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|solutionrelative:appdata\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\hotel\\appdata\\loaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|solutionrelative:appdata\\loaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\hotel\\appdata\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|solutionrelative:appdata\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\hotel\\appdata\\phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|solutionrelative:appdata\\phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\hotel\\appdata\\phongchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|solutionrelative:appdata\\phongchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\hotel\\appdata\\quyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|solutionrelative:appdata\\quyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\hotel\\appview\\views\\phongs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|solutionrelative:appview\\views\\phongs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2408E5E9-2EDE-4852-A720-F02B8EA7829B}|AppAPI\\AppAPI.csproj|c:\\users\\dattb\\onedrive\\desktop\\hotel\\appapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2408E5E9-2EDE-4852-A720-F02B8EA7829B}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\hotel\\appview\\controllers\\giascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|solutionrelative:appview\\controllers\\giascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\hotel\\appdata\\migrations\\20241118023127_hotel1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|solutionrelative:appdata\\migrations\\20241118023127_hotel1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2408E5E9-2EDE-4852-A720-F02B8EA7829B}|AppAPI\\AppAPI.csproj|c:\\users\\dattb\\onedrive\\desktop\\hotel\\appapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2408E5E9-2EDE-4852-A720-F02B8EA7829B}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\hotel\\appdata\\migrations\\20241118064649_khachsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|solutionrelative:appdata\\migrations\\20241118064649_khachsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\hotel\\appdata\\migrations\\20241118044240_bookstore3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|solutionrelative:appdata\\migrations\\20241118044240_bookstore3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhonggController.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppView\\Controllers\\PhonggController.cs",
+              "RelativeDocumentMoniker": "AppView\\Controllers\\PhonggController.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppView\\Controllers\\PhonggController.cs",
+              "RelativeToolTip": "AppView\\Controllers\\PhonggController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwCQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:36:34.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppView\\Views\\Phongg\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppView\\Views\\Phongg\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppView\\Views\\Phongg\\Index.cshtml",
+              "RelativeToolTip": "AppView\\Views\\Phongg\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T08:36:37.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DichVusController.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppAPI\\Controllers\\DichVusController.cs",
+              "RelativeDocumentMoniker": "AppAPI\\Controllers\\DichVusController.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppAPI\\Controllers\\DichVusController.cs",
+              "RelativeToolTip": "AppAPI\\Controllers\\DichVusController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T02:55:29.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhongController.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppAPI\\Controllers\\PhongController.cs",
+              "RelativeDocumentMoniker": "AppAPI\\Controllers\\PhongController.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppAPI\\Controllers\\PhongController.cs",
+              "RelativeToolTip": "AppAPI\\Controllers\\PhongController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T07:04:54.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DichVu.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppData\\DichVu.cs",
+              "RelativeDocumentMoniker": "AppData\\DichVu.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppData\\DichVu.cs",
+              "RelativeToolTip": "AppData\\DichVu.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:46:06.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppView\\Program.cs",
+              "RelativeDocumentMoniker": "AppView\\Program.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppView\\Program.cs",
+              "RelativeToolTip": "AppView\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:11:56.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppView\\Views\\Phongg\\Create.cshtml",
+              "RelativeDocumentMoniker": "AppView\\Views\\Phongg\\Create.cshtml",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppView\\Views\\Phongg\\Create.cshtml",
+              "RelativeToolTip": "AppView\\Views\\Phongg\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T08:37:17.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DatPhong.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppData\\DatPhong.cs",
+              "RelativeDocumentMoniker": "AppData\\DatPhong.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppData\\DatPhong.cs",
+              "RelativeToolTip": "AppData\\DatPhong.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wBcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:46:11.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PhongsController.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppView\\Controllers\\PhongsController.cs",
+              "RelativeDocumentMoniker": "AppView\\Controllers\\PhongsController.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppView\\Controllers\\PhongsController.cs",
+              "RelativeToolTip": "AppView\\Controllers\\PhongsController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAwwEAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:13:56.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaiKhoann.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppData\\TaiKhoann.cs",
+              "RelativeDocumentMoniker": "AppData\\TaiKhoann.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppData\\TaiKhoann.cs",
+              "RelativeToolTip": "AppData\\TaiKhoann.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T02:27:03.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241118064649_KhachSan.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppData\\Migrations\\20241118064649_KhachSan.cs",
+              "RelativeDocumentMoniker": "AppData\\Migrations\\20241118064649_KhachSan.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppData\\Migrations\\20241118064649_KhachSan.cs",
+              "RelativeToolTip": "AppData\\Migrations\\20241118064649_KhachSan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:46:50.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppData\\HoaDon.cs",
+              "RelativeDocumentMoniker": "AppData\\HoaDon.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppData\\HoaDon.cs",
+              "RelativeToolTip": "AppData\\HoaDon.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wBQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:45:57.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HoaDonChiTiet.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppData\\HoaDonChiTiet.cs",
+              "RelativeDocumentMoniker": "AppData\\HoaDonChiTiet.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppData\\HoaDonChiTiet.cs",
+              "RelativeToolTip": "AppData\\HoaDonChiTiet.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:45:51.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppData\\KhachHang.cs",
+              "RelativeDocumentMoniker": "AppData\\KhachHang.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppData\\KhachHang.cs",
+              "RelativeToolTip": "AppData\\KhachHang.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:45:44.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoaiPhong.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppData\\LoaiPhong.cs",
+              "RelativeDocumentMoniker": "AppData\\LoaiPhong.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppData\\LoaiPhong.cs",
+              "RelativeToolTip": "AppData\\LoaiPhong.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:45:40.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppData\\NhanVien.cs",
+              "RelativeDocumentMoniker": "AppData\\NhanVien.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppData\\NhanVien.cs",
+              "RelativeToolTip": "AppData\\NhanVien.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T05:39:35.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PhongChiTiet.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppData\\PhongChiTiet.cs",
+              "RelativeDocumentMoniker": "AppData\\PhongChiTiet.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppData\\PhongChiTiet.cs",
+              "RelativeToolTip": "AppData\\PhongChiTiet.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:41:59.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Phong.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppData\\Phong.cs",
+              "RelativeDocumentMoniker": "AppData\\Phong.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppData\\Phong.cs",
+              "RelativeToolTip": "AppData\\Phong.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:19:16.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HotelDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppData\\HotelDbContext.cs",
+              "RelativeDocumentMoniker": "AppData\\HotelDbContext.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppData\\HotelDbContext.cs",
+              "RelativeToolTip": "AppData\\HotelDbContext.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwEIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T02:21:11.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppView\\Views\\Phongs\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppView\\Views\\Phongs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppView\\Views\\Phongs\\Index.cshtml",
+              "RelativeToolTip": "AppView\\Views\\Phongs\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T04:24:41.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Quyen.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppData\\Quyen.cs",
+              "RelativeDocumentMoniker": "AppData\\Quyen.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppData\\Quyen.cs",
+              "RelativeToolTip": "AppData\\Quyen.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T02:28:52.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20241118044240_Bookstore3.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppData\\Migrations\\20241118044240_Bookstore3.cs",
+              "RelativeDocumentMoniker": "AppData\\Migrations\\20241118044240_Bookstore3.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppData\\Migrations\\20241118044240_Bookstore3.cs",
+              "RelativeToolTip": "AppData\\Migrations\\20241118044240_Bookstore3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:42:40.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GiasController.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppView\\Controllers\\GiasController.cs",
+              "RelativeDocumentMoniker": "AppView\\Controllers\\GiasController.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppView\\Controllers\\GiasController.cs",
+              "RelativeToolTip": "AppView\\Controllers\\GiasController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:08:30.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20241118023127_HOTEL1.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppData\\Migrations\\20241118023127_HOTEL1.cs",
+              "RelativeDocumentMoniker": "AppData\\Migrations\\20241118023127_HOTEL1.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppData\\Migrations\\20241118023127_HOTEL1.cs",
+              "RelativeToolTip": "AppData\\Migrations\\20241118023127_HOTEL1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T02:31:28.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AppAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppAPI\\Program.cs",
+              "RelativeToolTip": "AppAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T02:22:12.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AppAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\hotel\\AppAPI\\appsettings.json",
+              "RelativeToolTip": "AppAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T02:22:59.288Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

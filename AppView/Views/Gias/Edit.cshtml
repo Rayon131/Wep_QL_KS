@@ -1,0 +1,54 @@
+﻿@model AppData.Gia
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Gia</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="MaGia" />
+            <div class="form-group">
+                <label asp-for="MaPhongChiTiet" class="control-label"></label>
+                <input asp-for="MaPhongChiTiet" class="form-control" />
+                <span asp-validation-for="MaPhongChiTiet" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GiaNgayThuong" class="control-label"></label>
+                <input asp-for="GiaNgayThuong" class="form-control" />
+                <span asp-validation-for="GiaNgayThuong" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GiaCuoiTuan" class="control-label"></label>
+                <input asp-for="GiaCuoiTuan" class="form-control" />
+                <span asp-validation-for="GiaCuoiTuan" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GiaBanDem" class="control-label"></label>
+                <input asp-for="GiaBanDem" class="form-control" />
+                <span asp-validation-for="GiaBanDem" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GiaNgayLe" class="control-label"></label>
+                <input asp-for="GiaNgayLe" class="form-control" />
+                <span asp-validation-for="GiaNgayLe" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
